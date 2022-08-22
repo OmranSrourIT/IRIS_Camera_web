@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRIS_Camera_web", "IRIS_Camera_web\IRIS_Camera_web.csproj", "{B34A765B-A94E-4E3E-B967-8E577931949D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B34A765B-A94E-4E3E-B967-8E577931949D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34A765B-A94E-4E3E-B967-8E577931949D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34A765B-A94E-4E3E-B967-8E577931949D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34A765B-A94E-4E3E-B967-8E577931949D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3955F17-AD41-4535-8990-363EA7B79BE9}
+	EndGlobalSection
+EndGlobal
